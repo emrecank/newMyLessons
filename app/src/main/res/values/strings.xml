@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Lessons</string>
+    <string name="title_dersprogrami">Ders Programı</string>
+    <string name="title_devamsizlik">Devamsızlık</string>
+    <string name="title_derseklecikar">Ders Ekle/Çıkar</string>
+</resources>

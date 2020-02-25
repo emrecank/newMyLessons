@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266769925704",
+    "firebase_url": "https://newmylessons.firebaseio.com",
+    "project_id": "newmylessons",
+    "storage_bucket": "newmylessons.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266769925704:android:0520a5e9db1cf792bafa7d",
+        "android_client_info": {
+          "package_name": "com.example.newmylessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266769925704-6gicd4mqlg4b71em3ttj84h5nndl7hto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newmylessons",
+            "certificate_hash": "0dd7dc73158697afd6be1ef6d73223e59cf48dfa"
+          }
+        },
+        {
+          "client_id": "266769925704-jsc48f0hgs17r42h7mitmtsfigh1q68q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhf1xC95_tCTf5G1W5Nq_eNNCGctNbjhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266769925704-jsc48f0hgs17r42h7mitmtsfigh1q68q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

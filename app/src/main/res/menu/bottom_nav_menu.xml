@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dersprogrami"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/title_dersprogrami" />
+
+    <item
+        android:id="@+id/navigation_devamsizlik"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/title_devamsizlik" />
+
+    <item
+        android:id="@+id/navigation_derseklecikar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/title_derseklecikar" />
+
+</menu>
